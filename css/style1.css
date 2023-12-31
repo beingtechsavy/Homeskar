@@ -1,0 +1,66 @@
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+     
+.continer-fluid { background-color:#FCF8E8;
+    padding: 3% 15%;
+
+    }
+    
+    .h1-type1{color:#100a02;
+    font-family:sans-serif;
+    font-weight: bold;
+    padding-top: 30px;
+    
+    
+    }
+    .middleconteiner-fluid{
+        background-color: aqua;
+    }
+    
+    
+    .hurry-up {color: red;}
+#features {
+        padding: 7% 15%;
+    }
+.features-box{
+       text-align: center;
+
+}
+h3{
+    font-family:sans-serif;
+    font-weight: bolder;
+}
+    p{
+        color: #8f8f8f;
+    }
+    
+    .check-box{
+    size: 10px;
+    }
+    .icon{
+        color:#1A4D2E ;
+        margin-bottom: 1rem;
+    }
+    .homeskar-logo{
+        border-radius: 100% ;
+    }
+/**testimonals**/
+#testimonials{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #1A4D2E;
+    color:white;
+}
+.testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 10%;
+}
+.carousel-item{
+    height: 500px;
+}

@@ -1,0 +1,31 @@
+.designation{ padding-bottom: 20%; <!-- This is used for designation of the Email Signature -->
+ font-family: Arial;
+ position: relative; bottom: 12px;
+ font-weight: lighter
+}
+.name{ padding-top: 2%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+}
+.kindRegards { font-family: Arial
+                           }
+.kindRegards{ margin-bottom: : 10px;}
+
+
+.img {
+height: 8%;
+width: 8%;
+margin-bottom: 500%;
+position: relative; bottom: 350px;
+}
+.vertical {
+border-left: 1px solid black;
+height: 50px;
+position: relative; bottom:7980px; left: 140px;
+weight:2px;
+}
+.line {
+position: relative; bottom:7920px; left: 180px;
+font-family: Arial;
+font-weight: lighter;
+}
